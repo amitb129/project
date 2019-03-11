@@ -1,0 +1,6 @@
+2018-11-14 16:14:16,053 ERROR [main] - com.task.Log4J.main 14 - java.lang.Exception: New Exception
+java.lang.Exception: New Exception
+	at com.task.Log4J.main(Log4J.java:12)
+2018-11-14 16:15:41,992 ERROR [main] - com.task.Log4J.main 14 - java.lang.Exception: New Exception
+java.lang.Exception: New Exception
+	at com.task.Log4J.main(Log4J.java:12)

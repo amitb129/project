@@ -1,0 +1,91 @@
+/*
+loader ajax image css
+ */
+.ajax-loader {
+  visibility: hidden;
+  background-color: rgba(255,255,255,0.7);
+  position: absolute;
+  z-index: +100 !important;
+  width: 100%;
+  height:100%;
+}
+
+.ajax-loader img {
+  position: relative;
+  top:50%;
+  left:50%;
+}
+
+/*
+End: loader ajax image css
+ */
+ 
+#btnSessionOut
+{
+   position:absolute;
+   right:30px;
+   top:30px;
+   
+}
+#btnSessionOut:hover
+{
+    background: red;
+    cursor: pointer;
+}
+
+#sessionDiv
+{
+	padding-top: 30px;
+	padding-left: 50px;
+	position:absolute;
+}
+#addBtn
+{
+	position:absolute;
+    left:600px;
+    top:80px;
+}
+#addBtn:hover
+{
+    background-color: #33B5FF;
+    cursor: pointer;
+}
+#list{
+	
+	position:absolute;
+    left:250px;
+    padding: 10px;
+    top:150px;
+    display: none;
+}
+#listBtn
+{
+	position:absolute;
+   	right:600px;
+   	top:80px;
+}
+#load-image{
+	display: none;
+}
+#listBtn:hover
+{
+    background-color: #33B5FF;
+    cursor: pointer;
+}
+#AddUser
+{
+	position:absolute;
+    left:600px;
+    top:150px;
+    display: none;
+}
+
+#UserList
+{
+	position:absolute;
+    left:200px;
+    
+    padding: 10px;
+    top:170px;
+    display: none;
+}

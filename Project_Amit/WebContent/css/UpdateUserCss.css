@@ -1,0 +1,8 @@
+/* hide error message div */
+#UpdateErroMessage{
+	display: none;
+}
+
+#UpdateEmailIdCheck{
+	display: none;
+}
